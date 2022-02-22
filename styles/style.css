@@ -12,4 +12,10 @@ body,
 html {
   font-family: "Manrope", sans-serif;
 }
+
+div#main-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #323a49;
+}
 /*# sourceMappingURL=style.css.map */
